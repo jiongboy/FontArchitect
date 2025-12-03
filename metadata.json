@@ -1,0 +1,5 @@
+{
+  "name": "位图字体生成器",
+  "description": "一款专业的工具，用于将字体图集转换为 BMFont (.fnt) 格式。具有自动字符边界检测、使用 Gemini 的 AI 字符识别以及精确的参数调整功能。",
+  "requestFramePermissions": []
+}
